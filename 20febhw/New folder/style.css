@@ -1,0 +1,15 @@
+.task2{
+    position: absolute;
+    left: 50%;
+    right: 50%;
+}
+.button1{
+    position: relative;
+    top: 50px;
+    right: 35px;
+}
+.button2{
+    position: relative;
+    bottom: 50px;
+    left: 44px;
+}
